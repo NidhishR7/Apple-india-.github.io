@@ -1,0 +1,844 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.sai-kiran-anagani-cqmcr-ixipe-icon {
+  position: absolute;
+  top: 115px;
+  left: 0;
+  width: 2087px;
+  height: 491px;
+  object-fit: cover;
+}
+.rectangle-div,
+.rectangle-div1 {
+  position: absolute;
+  top: 115px;
+  left: 0;
+  width: 1920px;
+}
+.rectangle-div {
+  background-color: #1c1c1c;
+  height: 491px;
+  opacity: 0.64;
+}
+.rectangle-div1 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 24, 51, 0.27),
+    rgba(238, 238, 238, 0)
+  );
+  height: 33px;
+}
+.holidays-b,
+.indian-railways-b,
+.services-b {
+  position: absolute;
+  top: 26px;
+  left: 749px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.15em;
+  display: inline-block;
+  text-align: center;
+}
+.holidays-b,
+.services-b {
+  top: 888px;
+  left: 845px;
+}
+.holidays-b {
+  top: 1626px;
+  left: 842px;
+}
+.irctc-logo-png-gbxm4i-1-icon {
+  position: absolute;
+  top: 26px;
+  left: 1824px;
+  width: 59px;
+  height: 73px;
+  object-fit: cover;
+}
+.safety-div,
+.services-b1 {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.safety-div {
+  top: 75px;
+  left: 749px;
+  width: 59px;
+  height: 16px;
+}
+.services-b1 {
+  left: 736px;
+  width: 60px;
+}
+.eng-b,
+.services-b1,
+.trains-b {
+  top: 124px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  height: 14px;
+}
+.trains-b {
+  position: absolute;
+  left: 863px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 44px;
+}
+.eng-b {
+  left: 1151px;
+  width: 32px;
+}
+.contact-us-b,
+.eng-b,
+.punctuality-div,
+.security-div {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.contact-us-b {
+  top: 124px;
+  left: 990px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  width: 76px;
+  height: 14px;
+}
+.punctuality-div,
+.security-div {
+  top: 75px;
+  left: 902px;
+  width: 74px;
+  height: 16px;
+}
+.punctuality-div {
+  left: 1070px;
+  width: 100px;
+}
+.line-div,
+.line-div1 {
+  position: absolute;
+  top: 85.5px;
+  left: 832.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 45px;
+  height: 1px;
+  opacity: 0.5;
+}
+.line-div1 {
+  left: 1000.5px;
+}
+.rectangle-div2 {
+  position: absolute;
+  top: 436px;
+  left: 183px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.11);
+  width: 1551px;
+  height: 342px;
+}
+.rectangle-div3,
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  position: absolute;
+  top: 995px;
+  left: 516px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.11);
+  width: 226px;
+  height: 163px;
+}
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  top: 1269px;
+  left: 524px;
+}
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  left: 839px;
+}
+.rectangle-div6,
+.rectangle-div7,
+.rectangle-div8 {
+  top: 995px;
+  left: 847px;
+}
+.rectangle-div7,
+.rectangle-div8 {
+  top: 1269px;
+  left: 1170px;
+}
+.rectangle-div8 {
+  top: 995px;
+  left: 1179px;
+  width: 225px;
+}
+.vector-icon {
+  position: absolute;
+  top: 583.75px;
+  left: 611.75px;
+  width: 25.5px;
+  height: 27.5px;
+}
+.rectangle-button,
+.rectangle-div9 {
+  position: absolute;
+  top: 436px;
+  height: 79px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-white);
+  left: 183px;
+  border-radius: var(--br-lg) 0 0 0;
+  width: 325px;
+}
+.rectangle-div9 {
+  left: 569px;
+  border-radius: 0 var(--br-lg) 0 0;
+  background-color: #213d77;
+  width: 1165px;
+}
+.rectangle-div10 {
+  position: absolute;
+  top: -15px;
+  left: 109px;
+  border-radius: 16px;
+  background-color: var(--color-orange);
+  box-shadow: 5px 4px 19px rgba(0, 0, 0, 0.25);
+  width: 165px;
+  height: 193px;
+}
+.rectangle-textarea,
+.rectangle-textarea1,
+.rectangle-textarea2 {
+  border: 1.5px solid var(--color-gray-100);
+  background-color: transparent;
+  box-sizing: border-box;
+}
+.rectangle-textarea {
+  position: absolute;
+  top: 577px;
+  left: 279px;
+  border-radius: var(--br-xs);
+  width: 290px;
+  height: 41px;
+}
+.rectangle-textarea1,
+.rectangle-textarea2 {
+  top: 575px;
+}
+.rectangle-textarea1 {
+  position: absolute;
+  left: 680px;
+  border-radius: var(--br-xs);
+  width: 290px;
+  height: 41px;
+}
+.rectangle-textarea2 {
+  left: 1014px;
+}
+.rectangle-button1,
+.rectangle-input,
+.rectangle-textarea2,
+.rectangle-textarea3 {
+  position: absolute;
+  border-radius: var(--br-xs);
+  width: 290px;
+  height: 41px;
+}
+.rectangle-textarea3 {
+  border: 1.5px solid var(--color-gray-100);
+  background-color: transparent;
+  top: 575px;
+  left: 1349px;
+  box-sizing: border-box;
+}
+.rectangle-button1,
+.rectangle-input {
+  top: 668px;
+}
+.rectangle-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-orange);
+  left: 1349px;
+  box-shadow: 4px 4px 11px rgba(0, 0, 0, 0.25);
+}
+.rectangle-input {
+  border: 1.5px solid var(--color-gray-100);
+  background-color: transparent;
+  left: 279px;
+  box-sizing: border-box;
+}
+.indian-railways-ttzv5n-1-icon {
+  position: absolute;
+  top: 31px;
+  left: 136px;
+  width: 111px;
+  height: 110px;
+  object-fit: cover;
+}
+.departure-div {
+  position: absolute;
+  top: 543px;
+  left: 279px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 100px;
+  height: 16px;
+}
+.bus-div,
+.flight-div,
+.holidays-div,
+.hotel-div,
+.meals-div,
+.rail-drishti-div {
+  position: absolute;
+  top: 1175px;
+  left: 593px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 72px;
+  height: 16px;
+}
+.bus-div,
+.flight-div,
+.holidays-div,
+.meals-div,
+.rail-drishti-div {
+  top: 1449px;
+  left: 615px;
+  width: 44px;
+}
+.flight-div,
+.holidays-div,
+.meals-div,
+.rail-drishti-div {
+  top: 1175px;
+  left: 924px;
+  width: 68px;
+}
+.holidays-div,
+.meals-div,
+.rail-drishti-div {
+  left: 1256px;
+  width: 72px;
+}
+.holidays-div,
+.rail-drishti-div {
+  top: 1449px;
+  left: 899px;
+  width: 105px;
+}
+.rail-drishti-div {
+  left: 1230px;
+  width: 123px;
+}
+.layer-1-1 {
+  position: absolute;
+  top: 1285px;
+  left: 1222px;
+  width: 140px;
+  height: 131px;
+  object-fit: cover;
+}
+.arrival-div,
+.classes-div,
+.reservation-div,
+.show-trains-div {
+  position: absolute;
+  top: 543px;
+  left: 680px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 100px;
+  height: 16px;
+}
+.classes-div,
+.reservation-div,
+.show-trains-div {
+  left: 1014px;
+}
+.reservation-div,
+.show-trains-div {
+  left: 1349px;
+  width: 112px;
+}
+.show-trains-div {
+  top: 680px;
+  left: 1438px;
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 152px;
+  left: 1433px;
+  border-radius: var(--br-md) 0 0 var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.11);
+  width: 37px;
+  height: 342px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.message-circle-icon {
+  position: absolute;
+  top: 126.6px;
+  left: 1628.6px;
+  width: 10.57px;
+  height: 10.57px;
+}
+.chat-bot-div,
+.date-div {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  height: 16px;
+}
+.chat-bot-div {
+  top: 124px;
+  left: 1563px;
+  font-size: var(--font-size-sm);
+  width: 79px;
+}
+.date-div {
+  top: 636px;
+  left: 279px;
+  width: 100px;
+}
+.book-ticket,
+.chartsvacancy-b,
+.pnr-status-b {
+  position: absolute;
+  top: 460px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.09em;
+  display: inline-block;
+}
+.book-ticket {
+  left: 279px;
+  color: #000075;
+  text-align: center;
+}
+.chartsvacancy-b,
+.pnr-status-b {
+  color: var(--color-white);
+}
+.pnr-status-b {
+  left: 729px;
+  text-align: center;
+}
+.chartsvacancy-b {
+  left: 1057px;
+}
+.kisspng-airplane-icon-a5-compu,
+.layer-1-copy-2-1 {
+  position: absolute;
+  top: 1028px;
+  left: 578px;
+  width: 102px;
+  height: 96px;
+  object-fit: cover;
+}
+.kisspng-airplane-icon-a5-compu {
+  top: 1035px;
+  left: 894px;
+  width: 133px;
+  height: 93px;
+}
+.clipart2594203-1-icon,
+.kindpng-668586-1-icon,
+.layer-1-2 {
+  position: absolute;
+  top: 1033px;
+  left: 1237px;
+  width: 110px;
+  height: 97px;
+  object-fit: cover;
+}
+.clipart2594203-1-icon,
+.layer-1-2 {
+  top: 1295px;
+  left: 889px;
+  width: 115px;
+  height: 110px;
+}
+.layer-1-2 {
+  top: 1299px;
+  left: 589px;
+  width: 96px;
+  height: 112px;
+}
+.line-div2,
+.line-div3,
+.line-div4,
+.line-div5,
+.line-div6,
+.line-div7 {
+  position: absolute;
+  top: 910.5px;
+  left: 181.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 619px;
+  height: 3px;
+  opacity: 0.41;
+}
+.line-div3,
+.line-div4,
+.line-div5,
+.line-div6,
+.line-div7 {
+  top: 1648.5px;
+}
+.line-div4,
+.line-div5,
+.line-div6,
+.line-div7 {
+  top: 2369.5px;
+  width: 1554px;
+}
+.line-div5,
+.line-div6,
+.line-div7 {
+  top: 2712.5px;
+}
+.line-div6,
+.line-div7 {
+  top: 910.5px;
+  left: 1116.5px;
+  width: 619px;
+}
+.line-div7 {
+  top: 1648.5px;
+}
+.rectangle-div12,
+.rectangle-div13,
+.rectangle-div14 {
+  position: absolute;
+  top: 1821px;
+  left: 183px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.11);
+  width: 476px;
+  height: 379px;
+}
+.rectangle-div13,
+.rectangle-div14 {
+  left: 766px;
+}
+.rectangle-div14 {
+  left: 1349px;
+  border-radius: var(--br-sm) 0 0 var(--br-sm);
+  width: 385px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 1821px;
+  left: 183px;
+  border-radius: var(--br-sm) var(--br-sm) 0 0;
+  width: 476px;
+  height: 318px;
+  object-fit: cover;
+}
+.for-newly-migrated-agents,
+.how-to-div,
+.irctc-ewallet-div,
+.irctc-trains-div,
+.read-discription-div {
+  position: absolute;
+  top: 2160px;
+  left: 210px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 150px;
+  height: 16px;
+}
+.for-newly-migrated-agents,
+.how-to-div,
+.irctc-ewallet-div,
+.irctc-trains-div {
+  top: 2415px;
+  left: 183px;
+}
+.for-newly-migrated-agents,
+.how-to-div,
+.irctc-ewallet-div {
+  left: 589px;
+}
+.for-newly-migrated-agents,
+.irctc-ewallet-div {
+  left: 1034px;
+}
+.for-newly-migrated-agents {
+  left: 1480px;
+  width: 255px;
+}
+.general-info-div,
+.irctc-loyality-program,
+.irctc-official-app,
+.mobile-zone-div {
+  position: absolute;
+  top: 2468px;
+  left: 183px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 150px;
+  height: 16px;
+}
+.irctc-loyality-program,
+.irctc-official-app,
+.mobile-zone-div {
+  left: 589px;
+  width: 173px;
+}
+.irctc-loyality-program,
+.mobile-zone-div {
+  left: 1034px;
+  width: 220px;
+}
+.mobile-zone-div {
+  left: 1480px;
+}
+.about-us-div,
+.advertise-with-us,
+.agents-div,
+.important-info-div,
+.integration-policy-div {
+  position: absolute;
+  top: 2521px;
+  left: 183px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 150px;
+  height: 16px;
+}
+.about-us-div,
+.advertise-with-us,
+.agents-div,
+.integration-policy-div {
+  left: 589px;
+  width: 173px;
+}
+.about-us-div,
+.agents-div,
+.integration-policy-div {
+  left: 1034px;
+}
+.agents-div,
+.integration-policy-div {
+  left: 1480px;
+}
+.agents-div {
+  top: 2574px;
+  left: 183px;
+  width: 150px;
+}
+.divyangian-facilities,
+.enquiries-div,
+.irctc-zone-div,
+.read-discription-div1,
+.refund-rules-div {
+  position: absolute;
+  top: 2574px;
+  left: 589px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 150px;
+  height: 16px;
+}
+.divyangian-facilities,
+.enquiries-div,
+.irctc-zone-div,
+.read-discription-div1 {
+  left: 1034px;
+}
+.divyangian-facilities,
+.enquiries-div,
+.read-discription-div1 {
+  top: 2627px;
+  left: 183px;
+}
+.divyangian-facilities,
+.read-discription-div1 {
+  left: 589px;
+  width: 190px;
+}
+.read-discription-div1 {
+  top: 2160px;
+  left: 793px;
+  width: 150px;
+}
+.wwwirctccoin-all-right-res {
+  top: 2799px;
+  left: 867px;
+  font-size: var(--font-size-xs);
+  width: 186px;
+  height: 13px;
+}
+.design-and-hosted-by-cris,
+.read-discription-div2,
+.wwwirctccoin-all-right-res {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.design-and-hosted-by-cris {
+  top: 2816px;
+  left: 884px;
+  font-size: var(--font-size-xs);
+  width: 152px;
+  height: 8px;
+}
+.read-discription-div2 {
+  top: 2160px;
+  left: 1376px;
+  width: 150px;
+  height: 16px;
+}
+.iconexlightright-div {
+  position: absolute;
+  height: 0.95%;
+  width: 1.25%;
+  top: 70.56%;
+  right: 65.83%;
+  bottom: 28.49%;
+  left: 32.92%;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.adi-lica-zpn1lhola0s-unsplash-icon,
+.debarghya-meikap-ct5oyzhsz70-u-icon {
+  position: absolute;
+  top: 1821px;
+  left: 766px;
+  border-radius: var(--br-sm) var(--br-sm) 0 0;
+  width: 476px;
+  height: 318px;
+  object-fit: cover;
+}
+.adi-lica-zpn1lhola0s-unsplash-icon {
+  left: 1349px;
+  border-radius: var(--br-sm) 0 0 0;
+  width: 386px;
+}
+.right-icon,
+.right-icon1 {
+  position: absolute;
+  top: 1969.5px;
+  left: 77.89px;
+  width: 27.15px;
+  height: 57px;
+}
+.right-icon1 {
+  left: 1812.5px;
+}
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 2739px;
+  left: 879px;
+  width: 128px;
+  height: 32px;
+  object-fit: cover;
+}
+.image-5-icon {
+  top: 2740px;
+  left: 1074px;
+  width: 116px;
+  height: 31px;
+}
+.image-2-icon,
+.image-3-icon,
+.image-6-icon {
+  position: absolute;
+  top: 2737px;
+  left: 1257px;
+  width: 84px;
+  height: 36px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  top: 2739px;
+  left: 578px;
+  width: 78px;
+  height: 32px;
+}
+.image-3-icon {
+  left: 722px;
+  width: 90px;
+}
+.right-icon2,
+.right-icon3 {
+  position: absolute;
+  top: 2160px;
+  left: 608px;
+  width: 27px;
+  height: 16px;
+}
+.right-icon3 {
+  left: 1191px;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 0.73%;
+  width: 1.02%;
+  top: 23.7%;
+  right: 83.82%;
+  bottom: 75.57%;
+  left: 15.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 0.19%;
+  width: 20.73%;
+  top: 4.64%;
+  right: 37.63%;
+  bottom: 95.17%;
+  left: 41.64%;
+}
+.vector-icon3 {
+  width: 0.57%;
+  top: 4.99%;
+  right: 15.96%;
+  bottom: 94.82%;
+  left: 83.46%;
+}
+.frame-div {
+  position: relative;
+  border-radius: 34px;
+  background-color: #f2f3fa;
+  width: 100%;
+  height: 2858px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-proxima-nova);
+}

@@ -1,0 +1,23 @@
+:root {
+  /* fonts */
+  --font-proxima-nova: "Proxima Nova";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 15px;
+  --font-size-base: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 40px;
+
+  /* Colors */
+  --color-gray-100: #001833;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-orange: #ffa903;
+
+  /* border radiuses */
+  --br-xs: 9px;
+  --br-sm: 22px;
+  --br-md: 30px;
+  --br-lg: 52px;
+}
